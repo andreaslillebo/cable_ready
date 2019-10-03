@@ -1,0 +1,20 @@
+{
+  "name": "cable_ready",
+  "version": "4.0.5",
+  "main": "./cable_ready.js",
+  "scripts": {
+    "prettier-check": "yarn run prettier --check ./cable_ready.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com:hopsoft/cable_ready.git"
+  },
+  "author": "Nathan Hopkins",
+  "license": "MIT",
+  "dependencies": {
+    "morphdom": "^2.5.6"
+  },
+  "devDependencies": {
+    "prettier": "^1.18.2"
+  }
+}
